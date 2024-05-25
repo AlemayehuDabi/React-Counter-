@@ -1,0 +1,30 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+.App {
+  padding-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn {
+  display: flex;
+}
+
+.btn button {
+  font-size: 40px;
+  width: 8rem;
+  height: 3rem;
+}
+
+.btn p {
+  font-size: 40px;
+  margin: 0px 2rem;
+}
+
+span {
+  margin: 0 20px;
+}
